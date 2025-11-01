@@ -29,10 +29,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthv7&" alt="siddharthv7" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddharthv7/Siddharthv7/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddharthv7/Siddharthv7/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Siddharthv7/Siddharthv7/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
